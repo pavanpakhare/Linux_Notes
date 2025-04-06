@@ -1,5 +1,4 @@
 # Linux_Notes
-# Linux Tutorial: From Basic to Advanced
 
 ## Table of Contents
 1. [Introduction to Linux](#introduction-to-linux)
